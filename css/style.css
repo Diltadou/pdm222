@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(174, 174, 174);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.titulof {
+  text-align: center;
+  color: rgb(73, 71, 158);
+  font-size: 2em;
+}
+
+.conteudo {
+  background-color: rgb(169, 164, 164);
+  margin: 1.5em 0;
+  box-shadow: 3px 3px 3px rgba(153, 154, 225, 0.308);
+  text-align: center;
+  padding: 1em;
+  border-radius: 5%;
+}
+
+.conteudoLocalizacao {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.rodape {
+  text-align: center;
+  margin-top: 2em;
+  padding: 1em;
+  background-color: rgb(150, 150, 150);
+  border-radius: 5%;
+  color: #333;
+}
+
+.cabecalhoConteudo {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.botao {
+  background-color: rgba(69, 71, 163, 0.83);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 4px;
+}
